@@ -1,0 +1,2 @@
+# BrizBot
+Discord bot
